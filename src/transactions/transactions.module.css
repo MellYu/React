@@ -1,0 +1,21 @@
+.history{
+    border: 1px solid grey;
+    width: 700px;
+    margin:0 auto;
+}
+.header{
+    background-color: rgb(56, 180, 221);
+    color: white;
+}
+.headerItem{
+    padding: 15px 0;
+}
+
+.bodyItem{
+    text-align: center;
+    padding: 15px 0;
+    border: 1px solid lightgrey;
+}
+.bodyItem::first-letter{
+    text-transform: uppercase;
+}
