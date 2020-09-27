@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/framework-course/static/css/main.b884de4d.chunk.css",
+    "main.js": "/framework-course/static/js/main.da187e6c.chunk.js",
+    "main.js.map": "/framework-course/static/js/main.da187e6c.chunk.js.map",
+    "runtime-main.js": "/framework-course/static/js/runtime-main.d8cb3e7f.js",
+    "runtime-main.js.map": "/framework-course/static/js/runtime-main.d8cb3e7f.js.map",
+    "static/js/2.8a5f0277.chunk.js": "/framework-course/static/js/2.8a5f0277.chunk.js",
+    "static/js/2.8a5f0277.chunk.js.map": "/framework-course/static/js/2.8a5f0277.chunk.js.map",
+    "index.html": "/framework-course/index.html",
+    "precache-manifest.0cb182a7bc086380a1a40178a2491084.js": "/framework-course/precache-manifest.0cb182a7bc086380a1a40178a2491084.js",
+    "service-worker.js": "/framework-course/service-worker.js",
+    "static/css/main.b884de4d.chunk.css.map": "/framework-course/static/css/main.b884de4d.chunk.css.map",
+    "static/js/2.8a5f0277.chunk.js.LICENSE.txt": "/framework-course/static/js/2.8a5f0277.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8cb3e7f.js",
+    "static/js/2.8a5f0277.chunk.js",
+    "static/css/main.b884de4d.chunk.css",
+    "static/js/main.da187e6c.chunk.js"
+  ]
+}
